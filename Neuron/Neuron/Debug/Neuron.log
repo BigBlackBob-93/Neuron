@@ -1,0 +1,7 @@
+﻿  Neuron.cpp
+D:\C++\4 semester\Neuron\Neuron\Neuron.cpp(22,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++\4 semester\Neuron\Neuron\Neuron.cpp(44,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\Neuron\Neuron\Neuron.cpp(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\Neuron\Neuron\Neuron.cpp(46,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C++\4 semester\Neuron\Neuron\Neuron.cpp(58,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Neuron.vcxproj -> D:\C++\4 semester\Neuron\Debug\Neuron.exe
